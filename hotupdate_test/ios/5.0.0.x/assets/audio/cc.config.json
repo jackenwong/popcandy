@@ -1,0 +1,241 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "audio",
+    "deps": [],
+    "uuids": [
+        "034fc1ec-cfd0-4205-942e-9ebbc9f538b7",
+        "04141e68-3a23-484a-b5ea-f09c80ab64a2",
+        "0860e41d-c305-40c8-b2a2-88172a1f9ee1",
+        "13c30dd8-4631-40c1-8111-6e4e9109ff35",
+        "14041ac8-6c84-46e3-ba4d-d2d6a8a5311d",
+        "22ddbc42-5063-4dde-9e07-58f0807d3ac4",
+        "3232dc75-f575-4433-a13e-05647ed1ceec",
+        "3948aebb-7fec-4fd2-bebe-e8ea0f4eb300",
+        "3d2c2ee3-ce13-4eb1-9611-581a44471729",
+        "4096c121-30d6-45ae-94cd-a924357064a5",
+        "4551968d-5e29-4600-a86d-a23f0770285c",
+        "47550a4f-8ed8-4ed7-bad0-e7078de9d18b",
+        "478870a1-5b33-44eb-a389-6b6b682c59f1",
+        "5d47ed90-09c2-4f85-97c1-b8a37fb5ae34",
+        "61465dc4-2fea-4e59-9d4e-b0aef7fd93cd",
+        "61c1cb8d-8e6f-46f2-82ee-f0bee42a5073",
+        "6531ddb3-5510-4f05-913e-28c153f528b9",
+        "6a4b9374-13ac-4140-b6c4-cf6c4ff8f1c6",
+        "6fe3d396-3837-4ffa-abc6-535e01a243f7",
+        "7971b39e-3f0b-4ee9-8864-47dd8927c60b",
+        "7a57bb90-0b89-4c07-a762-40937a693a37",
+        "82088cb0-836b-4930-b650-1de67dc255f4",
+        "8ad95a27-2fd0-45d4-9a95-5266aad22d32",
+        "a372f327-7702-4277-82f7-bd98803104af",
+        "a730ca0e-29f3-49d4-b268-738754ffa94b",
+        "a8398c2d-b7e7-43ec-9df9-bb230962fc20",
+        "b534e706-93ce-4800-82ae-2895780fcd07",
+        "b8cd0934-2e21-494f-9024-4a6f50991099",
+        "bb123d04-bbca-4bf0-9040-d01589319af5",
+        "bec52788-73d3-4c44-8a69-f26a1a5c73b2",
+        "c811a7a9-896e-4513-b99f-78255ae30356",
+        "d5317564-7bdd-4066-b2b3-989c64e74920",
+        "d6c7477d-4c74-4b59-a3bc-4894ad89a28f",
+        "d8159a20-22c7-470d-b87d-b9cbca22b534",
+        "d83dc664-0c32-4e04-bc77-e3bc4ae6a34c",
+        "da2b9150-565d-4e2a-ad1f-04e0a3297bd8",
+        "e22d1e2e-b0b4-4b6b-8599-84a0d8f91e95",
+        "e3215e27-29c2-4cb3-9034-b9d76b4f3891",
+        "e78d07a9-0732-4442-90ec-af7951eb8e16",
+        "ef6f58c8-d71d-442d-af31-5ee0d2da066b",
+        "f87e4160-eb72-4672-b1ee-645063cfa637",
+        "f95343d0-1a5f-400c-acf5-eab2ee053760",
+        "f9e1bb90-3dd0-47da-9215-bca7ba6c6c8b",
+        "fcdaa757-e7e4-4830-8b63-3bb745679b31"
+    ],
+    "paths": {
+        "d6c7477d-4c74-4b59-a3bc-4894ad89a28f": [
+            "AddGold",
+            "cc.AudioClip"
+        ],
+        "4096c121-30d6-45ae-94cd-a924357064a5": [
+            "Bomb",
+            "cc.AudioClip"
+        ],
+        "3d2c2ee3-ce13-4eb1-9611-581a44471729": [
+            "BuyMagics",
+            "cc.AudioClip"
+        ],
+        "c811a7a9-896e-4513-b99f-78255ae30356": [
+            "CalcRemaining",
+            "cc.AudioClip"
+        ],
+        "22ddbc42-5063-4dde-9e07-58f0807d3ac4": [
+            "CalcRemainingEnd",
+            "cc.AudioClip"
+        ],
+        "8ad95a27-2fd0-45d4-9a95-5266aad22d32": [
+            "Combo1",
+            "cc.AudioClip"
+        ],
+        "0860e41d-c305-40c8-b2a2-88172a1f9ee1": [
+            "Combo10",
+            "cc.AudioClip"
+        ],
+        "82088cb0-836b-4930-b650-1de67dc255f4": [
+            "Combo11",
+            "cc.AudioClip"
+        ],
+        "3232dc75-f575-4433-a13e-05647ed1ceec": [
+            "Combo12",
+            "cc.AudioClip"
+        ],
+        "3948aebb-7fec-4fd2-bebe-e8ea0f4eb300": [
+            "Combo2",
+            "cc.AudioClip"
+        ],
+        "bb123d04-bbca-4bf0-9040-d01589319af5": [
+            "Combo3",
+            "cc.AudioClip"
+        ],
+        "fcdaa757-e7e4-4830-8b63-3bb745679b31": [
+            "Combo4",
+            "cc.AudioClip"
+        ],
+        "a8398c2d-b7e7-43ec-9df9-bb230962fc20": [
+            "Combo5",
+            "cc.AudioClip"
+        ],
+        "ef6f58c8-d71d-442d-af31-5ee0d2da066b": [
+            "Combo6",
+            "cc.AudioClip"
+        ],
+        "7971b39e-3f0b-4ee9-8864-47dd8927c60b": [
+            "Combo7",
+            "cc.AudioClip"
+        ],
+        "e78d07a9-0732-4442-90ec-af7951eb8e16": [
+            "Combo8",
+            "cc.AudioClip"
+        ],
+        "a730ca0e-29f3-49d4-b268-738754ffa94b": [
+            "Combo9",
+            "cc.AudioClip"
+        ],
+        "d8159a20-22c7-470d-b87d-b9cbca22b534": [
+            "Firework",
+            "cc.AudioClip"
+        ],
+        "d5317564-7bdd-4066-b2b3-989c64e74920": [
+            "GainBonus",
+            "cc.AudioClip"
+        ],
+        "f9e1bb90-3dd0-47da-9215-bca7ba6c6c8b": [
+            "GameOver",
+            "cc.AudioClip"
+        ],
+        "da2b9150-565d-4e2a-ad1f-04e0a3297bd8": [
+            "GamePlayBg",
+            "cc.AudioClip"
+        ],
+        "6fe3d396-3837-4ffa-abc6-535e01a243f7": [
+            "GoodJob",
+            "cc.AudioClip"
+        ],
+        "f87e4160-eb72-4672-b1ee-645063cfa637": [
+            "GoodJob1",
+            "cc.AudioClip"
+        ],
+        "61465dc4-2fea-4e59-9d4e-b0aef7fd93cd": [
+            "GoodJob2",
+            "cc.AudioClip"
+        ],
+        "b8cd0934-2e21-494f-9024-4a6f50991099": [
+            "GoodJob3",
+            "cc.AudioClip"
+        ],
+        "f95343d0-1a5f-400c-acf5-eab2ee053760": [
+            "GoodJob4",
+            "cc.AudioClip"
+        ],
+        "4551968d-5e29-4600-a86d-a23f0770285c": [
+            "GoodJob5",
+            "cc.AudioClip"
+        ],
+        "e3215e27-29c2-4cb3-9034-b9d76b4f3891": [
+            "Hit2",
+            "cc.AudioClip"
+        ],
+        "13c30dd8-4631-40c1-8111-6e4e9109ff35": [
+            "LevelEnd",
+            "cc.AudioClip"
+        ],
+        "6531ddb3-5510-4f05-913e-28c153f528b9": [
+            "MainMenuBg",
+            "cc.AudioClip"
+        ],
+        "034fc1ec-cfd0-4205-942e-9ebbc9f538b7": [
+            "MoveDown",
+            "cc.AudioClip"
+        ],
+        "5d47ed90-09c2-4f85-97c1-b8a37fb5ae34": [
+            "MoveDown2",
+            "cc.AudioClip"
+        ],
+        "e22d1e2e-b0b4-4b6b-8599-84a0d8f91e95": [
+            "NewHighScore",
+            "cc.AudioClip"
+        ],
+        "478870a1-5b33-44eb-a389-6b6b682c59f1": [
+            "PopStar",
+            "cc.AudioClip"
+        ],
+        "bec52788-73d3-4c44-8a69-f26a1a5c73b2": [
+            "ReduceGold",
+            "cc.AudioClip"
+        ],
+        "14041ac8-6c84-46e3-ba4d-d2d6a8a5311d": [
+            "ReplaceGem",
+            "cc.AudioClip"
+        ],
+        "04141e68-3a23-484a-b5ea-f09c80ab64a2": [
+            "Select",
+            "cc.AudioClip"
+        ],
+        "a372f327-7702-4277-82f7-bd98803104af": [
+            "SelectGem",
+            "cc.AudioClip"
+        ],
+        "d83dc664-0c32-4e04-bc77-e3bc4ae6a34c": [
+            "Shuffle",
+            "cc.AudioClip"
+        ],
+        "61c1cb8d-8e6f-46f2-82ee-f0bee42a5073": [
+            "Shuffle1",
+            "cc.AudioClip"
+        ],
+        "b534e706-93ce-4800-82ae-2895780fcd07": [
+            "StageIntroIn",
+            "cc.AudioClip"
+        ],
+        "6a4b9374-13ac-4140-b6c4-cf6c4ff8f1c6": [
+            "StageIntroOut",
+            "cc.AudioClip"
+        ],
+        "47550a4f-8ed8-4ed7-bad0-e7078de9d18b": [
+            "StartGame",
+            "cc.AudioClip"
+        ],
+        "7a57bb90-0b89-4c07-a762-40937a693a37": [
+            "TargetClear",
+            "cc.AudioClip"
+        ]
+    },
+    "scenes": {},
+    "packs": {},
+    "versions": {
+        "import": [],
+        "native": []
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}
